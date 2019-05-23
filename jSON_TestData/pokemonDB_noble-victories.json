@@ -1,0 +1,810 @@
+{
+    "1": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Sewaddle",
+        "num": 1,
+        "rarity": "common"
+    },
+    "10": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 10,
+        "rarity": ""
+    },
+    "100": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 100,
+        "rarity": ""
+    },
+    "101": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 101,
+        "rarity": ""
+    },
+    "11": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 11,
+        "rarity": ""
+    },
+    "12": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 12,
+        "rarity": ""
+    },
+    "13": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 13,
+        "rarity": ""
+    },
+    "14": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 14,
+        "rarity": ""
+    },
+    "15": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 15,
+        "rarity": ""
+    },
+    "16": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 16,
+        "rarity": ""
+    },
+    "17": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 17,
+        "rarity": ""
+    },
+    "18": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 18,
+        "rarity": ""
+    },
+    "19": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 19,
+        "rarity": ""
+    },
+    "2": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Swadloon",
+        "num": 2,
+        "rarity": "uncommon"
+    },
+    "20": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Larvesta",
+        "num": 20,
+        "rarity": "common"
+    },
+    "21": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 21,
+        "rarity": ""
+    },
+    "22": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 22,
+        "rarity": ""
+    },
+    "23": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 23,
+        "rarity": ""
+    },
+    "24": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 24,
+        "rarity": ""
+    },
+    "25": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 25,
+        "rarity": ""
+    },
+    "26": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 26,
+        "rarity": ""
+    },
+    "27": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 27,
+        "rarity": ""
+    },
+    "28": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 28,
+        "rarity": ""
+    },
+    "29": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 29,
+        "rarity": ""
+    },
+    "3": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Leavanny",
+        "num": 3,
+        "rarity": "rare"
+    },
+    "30": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 30,
+        "rarity": ""
+    },
+    "31": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 31,
+        "rarity": ""
+    },
+    "32": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 32,
+        "rarity": ""
+    },
+    "33": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Cryogonal",
+        "num": 33,
+        "rarity": "rare"
+    },
+    "34": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 34,
+        "rarity": ""
+    },
+    "35": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 35,
+        "rarity": ""
+    },
+    "36": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 36,
+        "rarity": ""
+    },
+    "37": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 37,
+        "rarity": ""
+    },
+    "38": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 38,
+        "rarity": ""
+    },
+    "39": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Tynamo",
+        "num": 39,
+        "rarity": "common"
+    },
+    "4": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 4,
+        "rarity": ""
+    },
+    "40": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 40,
+        "rarity": ""
+    },
+    "41": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 41,
+        "rarity": ""
+    },
+    "42": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 42,
+        "rarity": ""
+    },
+    "43": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 43,
+        "rarity": ""
+    },
+    "44": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 44,
+        "rarity": ""
+    },
+    "45": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 45,
+        "rarity": ""
+    },
+    "46": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 46,
+        "rarity": ""
+    },
+    "47": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 47,
+        "rarity": ""
+    },
+    "48": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Trubbish",
+        "num": 48,
+        "rarity": "common"
+    },
+    "49": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 49,
+        "rarity": ""
+    },
+    "5": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 5,
+        "rarity": ""
+    },
+    "50": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 50,
+        "rarity": ""
+    },
+    "51": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Duosion",
+        "num": 51,
+        "rarity": "uncommon"
+    },
+    "52": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 52,
+        "rarity": ""
+    },
+    "53": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 53,
+        "rarity": ""
+    },
+    "54": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 54,
+        "rarity": ""
+    },
+    "55": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 55,
+        "rarity": ""
+    },
+    "56": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 56,
+        "rarity": ""
+    },
+    "57": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 57,
+        "rarity": ""
+    },
+    "58": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 58,
+        "rarity": ""
+    },
+    "59": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 59,
+        "rarity": ""
+    },
+    "6": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 6,
+        "rarity": ""
+    },
+    "60": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 60,
+        "rarity": ""
+    },
+    "61": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 61,
+        "rarity": ""
+    },
+    "62": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 62,
+        "rarity": ""
+    },
+    "63": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 63,
+        "rarity": ""
+    },
+    "64": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 64,
+        "rarity": ""
+    },
+    "65": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 65,
+        "rarity": ""
+    },
+    "66": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Archen",
+        "num": 66,
+        "rarity": "uncommon"
+    },
+    "67": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 67,
+        "rarity": ""
+    },
+    "68": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 68,
+        "rarity": ""
+    },
+    "69": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Mienfoo",
+        "num": 69,
+        "rarity": "common"
+    },
+    "7": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 7,
+        "rarity": ""
+    },
+    "70": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 70,
+        "rarity": ""
+    },
+    "71": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 71,
+        "rarity": ""
+    },
+    "72": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 72,
+        "rarity": ""
+    },
+    "73": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 73,
+        "rarity": ""
+    },
+    "74": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 74,
+        "rarity": ""
+    },
+    "75": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 75,
+        "rarity": ""
+    },
+    "76": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 76,
+        "rarity": ""
+    },
+    "77": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 77,
+        "rarity": ""
+    },
+    "78": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 78,
+        "rarity": ""
+    },
+    "79": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 79,
+        "rarity": ""
+    },
+    "8": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 8,
+        "rarity": ""
+    },
+    "80": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 80,
+        "rarity": ""
+    },
+    "81": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 81,
+        "rarity": ""
+    },
+    "82": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 82,
+        "rarity": ""
+    },
+    "83": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 83,
+        "rarity": ""
+    },
+    "84": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 84,
+        "rarity": ""
+    },
+    "85": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 85,
+        "rarity": ""
+    },
+    "86": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Axew",
+        "num": 86,
+        "rarity": "common"
+    },
+    "87": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 87,
+        "rarity": ""
+    },
+    "88": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 88,
+        "rarity": ""
+    },
+    "89": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 89,
+        "rarity": ""
+    },
+    "9": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 9,
+        "rarity": ""
+    },
+    "90": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 90,
+        "rarity": ""
+    },
+    "91": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 91,
+        "rarity": ""
+    },
+    "92": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 92,
+        "rarity": ""
+    },
+    "93": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Plume Fossil",
+        "num": 93,
+        "rarity": "uncommon"
+    },
+    "94": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 94,
+        "rarity": ""
+    },
+    "95": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 95,
+        "rarity": ""
+    },
+    "96": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 96,
+        "rarity": ""
+    },
+    "97": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 97,
+        "rarity": ""
+    },
+    "98": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 98,
+        "rarity": ""
+    },
+    "99": {
+        "deckName": "Noble Victories",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 99,
+        "rarity": ""
+    }
+}

@@ -1,0 +1,786 @@
+{
+    "1": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pansage",
+        "num": 1,
+        "rarity": "common"
+    },
+    "10": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 10,
+        "rarity": ""
+    },
+    "11": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Whimsicott",
+        "num": 11,
+        "rarity": "uncommon"
+    },
+    "12": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 12,
+        "rarity": ""
+    },
+    "13": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Petilil",
+        "num": 13,
+        "rarity": "common"
+    },
+    "14": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 14,
+        "rarity": ""
+    },
+    "15": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Deerling",
+        "num": 15,
+        "rarity": "common"
+    },
+    "16": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 16,
+        "rarity": ""
+    },
+    "17": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 17,
+        "rarity": ""
+    },
+    "18": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pansear",
+        "num": 18,
+        "rarity": "common"
+    },
+    "19": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 19,
+        "rarity": ""
+    },
+    "2": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 2,
+        "rarity": ""
+    },
+    "20": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Darumaka",
+        "num": 20,
+        "rarity": "common"
+    },
+    "21": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 21,
+        "rarity": ""
+    },
+    "22": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 22,
+        "rarity": ""
+    },
+    "23": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Simipour",
+        "num": 23,
+        "rarity": "rare"
+    },
+    "24": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 24,
+        "rarity": ""
+    },
+    "25": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Basculin",
+        "num": 25,
+        "rarity": "uncommon"
+    },
+    "26": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 26,
+        "rarity": ""
+    },
+    "27": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 27,
+        "rarity": ""
+    },
+    "28": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Cubchoo",
+        "num": 28,
+        "rarity": "common"
+    },
+    "29": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Cubchoo",
+        "num": 29,
+        "rarity": "common"
+    },
+    "3": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 3,
+        "rarity": ""
+    },
+    "30": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 30,
+        "rarity": ""
+    },
+    "31": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 31,
+        "rarity": ""
+    },
+    "32": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 32,
+        "rarity": ""
+    },
+    "33": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Joltik",
+        "num": 33,
+        "rarity": "common"
+    },
+    "34": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Galvantula",
+        "num": 34,
+        "rarity": "uncommon"
+    },
+    "35": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 35,
+        "rarity": ""
+    },
+    "36": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Woobat",
+        "num": 36,
+        "rarity": "common"
+    },
+    "37": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 37,
+        "rarity": ""
+    },
+    "38": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 38,
+        "rarity": ""
+    },
+    "39": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Whirlipede",
+        "num": 39,
+        "rarity": "uncommon"
+    },
+    "4": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Sewaddle",
+        "num": 4,
+        "rarity": "common"
+    },
+    "40": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 40,
+        "rarity": ""
+    },
+    "41": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 41,
+        "rarity": ""
+    },
+    "42": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Sigilyph",
+        "num": 42,
+        "rarity": "uncommon"
+    },
+    "43": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Gothita",
+        "num": 43,
+        "rarity": "common"
+    },
+    "44": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 44,
+        "rarity": ""
+    },
+    "45": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Gothorita",
+        "num": 45,
+        "rarity": "uncommon"
+    },
+    "46": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Gothorita",
+        "num": 46,
+        "rarity": "uncommon"
+    },
+    "47": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 47,
+        "rarity": ""
+    },
+    "48": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 48,
+        "rarity": ""
+    },
+    "49": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 49,
+        "rarity": ""
+    },
+    "5": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 5,
+        "rarity": ""
+    },
+    "50": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 50,
+        "rarity": ""
+    },
+    "51": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Boldore",
+        "num": 51,
+        "rarity": "uncommon"
+    },
+    "52": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 52,
+        "rarity": ""
+    },
+    "53": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 53,
+        "rarity": ""
+    },
+    "54": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 54,
+        "rarity": ""
+    },
+    "55": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Drilbur",
+        "num": 55,
+        "rarity": "common"
+    },
+    "56": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 56,
+        "rarity": ""
+    },
+    "57": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Excadrill",
+        "num": 57,
+        "rarity": "rare"
+    },
+    "58": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Throh",
+        "num": 58,
+        "rarity": "uncommon"
+    },
+    "59": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Sawk",
+        "num": 59,
+        "rarity": "uncommon"
+    },
+    "6": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Swadloon",
+        "num": 6,
+        "rarity": "uncommon"
+    },
+    "60": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Sandile",
+        "num": 60,
+        "rarity": "common"
+    },
+    "61": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Krokorok",
+        "num": 61,
+        "rarity": "uncommon"
+    },
+    "62": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 62,
+        "rarity": ""
+    },
+    "63": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 63,
+        "rarity": ""
+    },
+    "64": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 64,
+        "rarity": ""
+    },
+    "65": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 65,
+        "rarity": ""
+    },
+    "66": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 66,
+        "rarity": ""
+    },
+    "67": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 67,
+        "rarity": ""
+    },
+    "68": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Vullaby",
+        "num": 68,
+        "rarity": "common"
+    },
+    "69": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 69,
+        "rarity": ""
+    },
+    "7": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 7,
+        "rarity": ""
+    },
+    "70": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Ferroseed",
+        "num": 70,
+        "rarity": "common"
+    },
+    "71": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 71,
+        "rarity": ""
+    },
+    "72": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 72,
+        "rarity": ""
+    },
+    "73": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Ferrothorn",
+        "num": 73,
+        "rarity": "uncommon"
+    },
+    "74": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Klink",
+        "num": 74,
+        "rarity": "common"
+    },
+    "75": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Klang",
+        "num": 75,
+        "rarity": "uncommon"
+    },
+    "76": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 76,
+        "rarity": ""
+    },
+    "77": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 77,
+        "rarity": ""
+    },
+    "78": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Patrat",
+        "num": 78,
+        "rarity": "common"
+    },
+    "79": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 79,
+        "rarity": ""
+    },
+    "8": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 8,
+        "rarity": ""
+    },
+    "80": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pidove",
+        "num": 80,
+        "rarity": "common"
+    },
+    "81": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 81,
+        "rarity": ""
+    },
+    "82": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 82,
+        "rarity": ""
+    },
+    "83": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Audino",
+        "num": 83,
+        "rarity": "uncommon"
+    },
+    "84": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Minccino",
+        "num": 84,
+        "rarity": "common"
+    },
+    "85": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Cinccino",
+        "num": 85,
+        "rarity": "uncommon"
+    },
+    "86": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Rufflet",
+        "num": 86,
+        "rarity": "common"
+    },
+    "87": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 87,
+        "rarity": ""
+    },
+    "88": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 88,
+        "rarity": ""
+    },
+    "89": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 89,
+        "rarity": ""
+    },
+    "9": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Cottonee",
+        "num": 9,
+        "rarity": "common"
+    },
+    "90": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 90,
+        "rarity": ""
+    },
+    "91": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 91,
+        "rarity": ""
+    },
+    "92": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 92,
+        "rarity": ""
+    },
+    "93": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Great Ball",
+        "num": 93,
+        "rarity": "uncommon"
+    },
+    "94": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Max Potion",
+        "num": 94,
+        "rarity": "uncommon"
+    },
+    "95": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 95,
+        "rarity": ""
+    },
+    "96": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 96,
+        "rarity": ""
+    },
+    "97": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 97,
+        "rarity": ""
+    },
+    "98": {
+        "deckName": "Emerging Powers",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 98,
+        "rarity": ""
+    }
+}

@@ -1,0 +1,514 @@
+{
+    "1": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Clefable",
+        "num": 1,
+        "rarity": "rare"
+    },
+    "10": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Scyther",
+        "num": 10,
+        "rarity": "rare"
+    },
+    "11": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Snorlax",
+        "num": 11,
+        "rarity": "rare"
+    },
+    "12": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Vaporeon",
+        "num": 12,
+        "rarity": "rare"
+    },
+    "13": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Venomoth",
+        "num": 13,
+        "rarity": "rare"
+    },
+    "14": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Victreebel",
+        "num": 14,
+        "rarity": "rare"
+    },
+    "15": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Vileplume",
+        "num": 15,
+        "rarity": "rare"
+    },
+    "16": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Wigglytuff",
+        "num": 16,
+        "rarity": "rare"
+    },
+    "17": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Clefable",
+        "num": 17,
+        "rarity": "rare"
+    },
+    "18": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Electrode",
+        "num": 18,
+        "rarity": "rare"
+    },
+    "19": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Flareon",
+        "num": 19,
+        "rarity": "rare"
+    },
+    "2": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Electrode",
+        "num": 2,
+        "rarity": "rare"
+    },
+    "20": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Jolteon",
+        "num": 20,
+        "rarity": "rare"
+    },
+    "21": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Kangaskhan",
+        "num": 21,
+        "rarity": "rare"
+    },
+    "22": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Mr. Mime",
+        "num": 22,
+        "rarity": "rare"
+    },
+    "23": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Nidoqueen",
+        "num": 23,
+        "rarity": "rare"
+    },
+    "24": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pidgeot",
+        "num": 24,
+        "rarity": "rare"
+    },
+    "25": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pinsir",
+        "num": 25,
+        "rarity": "rare"
+    },
+    "26": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Scyther",
+        "num": 26,
+        "rarity": "rare"
+    },
+    "27": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Snorlax",
+        "num": 27,
+        "rarity": "rare"
+    },
+    "28": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Vaporeon",
+        "num": 28,
+        "rarity": "rare"
+    },
+    "29": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Venomoth",
+        "num": 29,
+        "rarity": "rare"
+    },
+    "3": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Flareon",
+        "num": 3,
+        "rarity": "rare"
+    },
+    "30": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Victreebel",
+        "num": 30,
+        "rarity": "rare"
+    },
+    "31": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Vileplume",
+        "num": 31,
+        "rarity": "rare"
+    },
+    "32": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Wigglytuff",
+        "num": 32,
+        "rarity": "rare"
+    },
+    "33": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Butterfree",
+        "num": 33,
+        "rarity": "uncommon"
+    },
+    "34": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Dodrio",
+        "num": 34,
+        "rarity": "uncommon"
+    },
+    "35": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Exeggutor",
+        "num": 35,
+        "rarity": "uncommon"
+    },
+    "36": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Fearow",
+        "num": 36,
+        "rarity": "uncommon"
+    },
+    "37": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Gloom",
+        "num": 37,
+        "rarity": "uncommon"
+    },
+    "38": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Lickitung",
+        "num": 38,
+        "rarity": "uncommon"
+    },
+    "39": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Marowak",
+        "num": 39,
+        "rarity": "uncommon"
+    },
+    "4": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Jolteon",
+        "num": 4,
+        "rarity": "rare"
+    },
+    "40": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Nidorina",
+        "num": 40,
+        "rarity": "uncommon"
+    },
+    "41": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Parasect",
+        "num": 41,
+        "rarity": "uncommon"
+    },
+    "42": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Persian",
+        "num": 42,
+        "rarity": "uncommon"
+    },
+    "43": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Primeape",
+        "num": 43,
+        "rarity": "uncommon"
+    },
+    "44": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Rapidash",
+        "num": 44,
+        "rarity": "uncommon"
+    },
+    "45": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Rhydon",
+        "num": 45,
+        "rarity": "uncommon"
+    },
+    "46": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Seaking",
+        "num": 46,
+        "rarity": "uncommon"
+    },
+    "47": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Tauros",
+        "num": 47,
+        "rarity": "uncommon"
+    },
+    "48": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Weepinbell",
+        "num": 48,
+        "rarity": "uncommon"
+    },
+    "49": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Bellsprout",
+        "num": 49,
+        "rarity": "common"
+    },
+    "5": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Kangaskhan",
+        "num": 5,
+        "rarity": "rare"
+    },
+    "50": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Cubone",
+        "num": 50,
+        "rarity": "common"
+    },
+    "51": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Eevee",
+        "num": 51,
+        "rarity": "common"
+    },
+    "52": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Exeggcute",
+        "num": 52,
+        "rarity": "common"
+    },
+    "53": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Goldeen",
+        "num": 53,
+        "rarity": "common"
+    },
+    "54": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Jigglypuff",
+        "num": 54,
+        "rarity": "common"
+    },
+    "55": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Mankey",
+        "num": 55,
+        "rarity": "common"
+    },
+    "56": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Meowth",
+        "num": 56,
+        "rarity": "common"
+    },
+    "57": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Nidoran(F)",
+        "num": 57,
+        "rarity": "common"
+    },
+    "58": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Oddish",
+        "num": 58,
+        "rarity": "common"
+    },
+    "59": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Paras",
+        "num": 59,
+        "rarity": "common"
+    },
+    "6": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Mr. Mime",
+        "num": 6,
+        "rarity": "rare"
+    },
+    "60": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pikachu",
+        "num": 60,
+        "rarity": "common"
+    },
+    "61": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Rhyhorn",
+        "num": 61,
+        "rarity": "common"
+    },
+    "62": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Spearow",
+        "num": 62,
+        "rarity": "common"
+    },
+    "63": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Venonat",
+        "num": 63,
+        "rarity": "common"
+    },
+    "64": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Poke Ball",
+        "num": 64,
+        "rarity": "common"
+    },
+    "7": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Nidoqueen",
+        "num": 7,
+        "rarity": "rare"
+    },
+    "8": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pidgeot",
+        "num": 8,
+        "rarity": "rare"
+    },
+    "9": {
+        "deckName": "Jungle",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pinsir",
+        "num": 9,
+        "rarity": "rare"
+    }
+}

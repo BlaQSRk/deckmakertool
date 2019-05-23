@@ -1,0 +1,914 @@
+{
+    "1": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Snivy",
+        "num": 1,
+        "rarity": "common"
+    },
+    "10": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 10,
+        "rarity": ""
+    },
+    "100": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Potion",
+        "num": 100,
+        "rarity": "common"
+    },
+    "101": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Professor Juniper",
+        "num": 101,
+        "rarity": "uncommon"
+    },
+    "102": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Revive",
+        "num": 102,
+        "rarity": "uncommon"
+    },
+    "103": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Super Scoop Up",
+        "num": 103,
+        "rarity": "uncommon"
+    },
+    "104": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Switch",
+        "num": 104,
+        "rarity": "common"
+    },
+    "105": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 105,
+        "rarity": ""
+    },
+    "106": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 106,
+        "rarity": ""
+    },
+    "107": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 107,
+        "rarity": ""
+    },
+    "108": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Lightning Energy",
+        "num": 108,
+        "rarity": "common"
+    },
+    "109": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 109,
+        "rarity": ""
+    },
+    "11": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 11,
+        "rarity": ""
+    },
+    "110": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 110,
+        "rarity": ""
+    },
+    "111": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 111,
+        "rarity": ""
+    },
+    "112": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 112,
+        "rarity": ""
+    },
+    "113": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 113,
+        "rarity": ""
+    },
+    "114": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 114,
+        "rarity": ""
+    },
+    "12": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 12,
+        "rarity": ""
+    },
+    "13": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Deerling",
+        "num": 13,
+        "rarity": "common"
+    },
+    "14": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 14,
+        "rarity": ""
+    },
+    "15": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Tepig",
+        "num": 15,
+        "rarity": "common"
+    },
+    "16": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Tepig",
+        "num": 16,
+        "rarity": "common"
+    },
+    "17": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pignite",
+        "num": 17,
+        "rarity": "uncommon"
+    },
+    "18": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 18,
+        "rarity": ""
+    },
+    "19": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Emboar",
+        "num": 19,
+        "rarity": "rare"
+    },
+    "2": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Snivy",
+        "num": 2,
+        "rarity": "common"
+    },
+    "20": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 20,
+        "rarity": ""
+    },
+    "21": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pansear",
+        "num": 21,
+        "rarity": "common"
+    },
+    "22": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Simisear",
+        "num": 22,
+        "rarity": "uncommon"
+    },
+    "23": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Darumaka",
+        "num": 23,
+        "rarity": "common"
+    },
+    "24": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 24,
+        "rarity": ""
+    },
+    "25": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Darmanitan",
+        "num": 25,
+        "rarity": "rare"
+    },
+    "26": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 26,
+        "rarity": ""
+    },
+    "27": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 27,
+        "rarity": ""
+    },
+    "28": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 28,
+        "rarity": ""
+    },
+    "29": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Dewott",
+        "num": 29,
+        "rarity": "uncommon"
+    },
+    "3": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 3,
+        "rarity": ""
+    },
+    "30": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 30,
+        "rarity": ""
+    },
+    "31": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 31,
+        "rarity": ""
+    },
+    "32": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 32,
+        "rarity": ""
+    },
+    "33": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 33,
+        "rarity": ""
+    },
+    "34": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Simipour",
+        "num": 34,
+        "rarity": "uncommon"
+    },
+    "35": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 35,
+        "rarity": ""
+    },
+    "36": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Ducklett",
+        "num": 36,
+        "rarity": "common"
+    },
+    "37": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 37,
+        "rarity": ""
+    },
+    "38": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Alomomola",
+        "num": 38,
+        "rarity": "uncommon"
+    },
+    "39": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Alomomola",
+        "num": 39,
+        "rarity": "rare"
+    },
+    "4": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Servine",
+        "num": 4,
+        "rarity": "uncommon"
+    },
+    "40": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Blitzle",
+        "num": 40,
+        "rarity": "common"
+    },
+    "41": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Blitzle",
+        "num": 41,
+        "rarity": "common"
+    },
+    "42": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Zebstrika",
+        "num": 42,
+        "rarity": "uncommon"
+    },
+    "43": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 43,
+        "rarity": ""
+    },
+    "44": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 44,
+        "rarity": ""
+    },
+    "45": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Joltik",
+        "num": 45,
+        "rarity": "common"
+    },
+    "46": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 46,
+        "rarity": ""
+    },
+    "47": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 47,
+        "rarity": ""
+    },
+    "48": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 48,
+        "rarity": ""
+    },
+    "49": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Musharna",
+        "num": 49,
+        "rarity": "rare"
+    },
+    "5": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Serperior",
+        "num": 5,
+        "rarity": "rare"
+    },
+    "50": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 50,
+        "rarity": ""
+    },
+    "51": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 51,
+        "rarity": ""
+    },
+    "52": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Venipede",
+        "num": 52,
+        "rarity": "common"
+    },
+    "53": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Whirlipede",
+        "num": 53,
+        "rarity": "uncommon"
+    },
+    "54": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 54,
+        "rarity": ""
+    },
+    "55": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Solosis",
+        "num": 55,
+        "rarity": "common"
+    },
+    "56": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 56,
+        "rarity": ""
+    },
+    "57": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 57,
+        "rarity": ""
+    },
+    "58": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Timburr",
+        "num": 58,
+        "rarity": "common"
+    },
+    "59": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Timburr",
+        "num": 59,
+        "rarity": "common"
+    },
+    "6": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 6,
+        "rarity": ""
+    },
+    "60": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 60,
+        "rarity": ""
+    },
+    "61": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 61,
+        "rarity": ""
+    },
+    "62": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Sawk",
+        "num": 62,
+        "rarity": "rare"
+    },
+    "63": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Sandile",
+        "num": 63,
+        "rarity": "common"
+    },
+    "64": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 64,
+        "rarity": ""
+    },
+    "65": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 65,
+        "rarity": ""
+    },
+    "66": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Purrloin",
+        "num": 66,
+        "rarity": "common"
+    },
+    "67": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 67,
+        "rarity": ""
+    },
+    "68": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 68,
+        "rarity": ""
+    },
+    "69": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 69,
+        "rarity": ""
+    },
+    "7": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pansage",
+        "num": 7,
+        "rarity": "common"
+    },
+    "70": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Zorua",
+        "num": 70,
+        "rarity": "common"
+    },
+    "71": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 71,
+        "rarity": ""
+    },
+    "72": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 72,
+        "rarity": ""
+    },
+    "73": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 73,
+        "rarity": ""
+    },
+    "74": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Klink",
+        "num": 74,
+        "rarity": "common"
+    },
+    "75": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Klang",
+        "num": 75,
+        "rarity": "uncommon"
+    },
+    "76": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Klinklang",
+        "num": 76,
+        "rarity": "rare"
+    },
+    "77": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Patrat",
+        "num": 77,
+        "rarity": "common"
+    },
+    "78": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Patrat",
+        "num": 78,
+        "rarity": "common"
+    },
+    "79": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Watchog",
+        "num": 79,
+        "rarity": "uncommon"
+    },
+    "8": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 8,
+        "rarity": ""
+    },
+    "80": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Lillipup",
+        "num": 80,
+        "rarity": "common"
+    },
+    "81": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Lillipup",
+        "num": 81,
+        "rarity": "common"
+    },
+    "82": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Herdier",
+        "num": 82,
+        "rarity": "uncommon"
+    },
+    "83": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Stoutland",
+        "num": 83,
+        "rarity": "rare"
+    },
+    "84": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pidove",
+        "num": 84,
+        "rarity": "common"
+    },
+    "85": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Tranquill",
+        "num": 85,
+        "rarity": "uncommon"
+    },
+    "86": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Unfezant",
+        "num": 86,
+        "rarity": "rare"
+    },
+    "87": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 87,
+        "rarity": ""
+    },
+    "88": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Minccino",
+        "num": 88,
+        "rarity": "common"
+    },
+    "89": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Cinccino",
+        "num": 89,
+        "rarity": "rare"
+    },
+    "9": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Petilil",
+        "num": 9,
+        "rarity": "common"
+    },
+    "90": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 90,
+        "rarity": ""
+    },
+    "91": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 91,
+        "rarity": ""
+    },
+    "92": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Energy Retrieval",
+        "num": 92,
+        "rarity": "uncommon"
+    },
+    "93": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Energy Search",
+        "num": 93,
+        "rarity": "common"
+    },
+    "94": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Energy Switch",
+        "num": 94,
+        "rarity": "uncommon"
+    },
+    "95": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 95,
+        "rarity": ""
+    },
+    "96": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 96,
+        "rarity": ""
+    },
+    "97": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Poke Ball",
+        "num": 97,
+        "rarity": "uncommon"
+    },
+    "98": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 98,
+        "rarity": ""
+    },
+    "99": {
+        "deckName": "Black and White",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pokemon Communication",
+        "num": 99,
+        "rarity": "uncommon"
+    }
+}

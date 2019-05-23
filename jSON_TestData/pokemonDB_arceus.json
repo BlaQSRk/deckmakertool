@@ -1,0 +1,794 @@
+{
+    "1": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 1,
+        "rarity": ""
+    },
+    "10": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 10,
+        "rarity": ""
+    },
+    "11": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 11,
+        "rarity": ""
+    },
+    "12": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 12,
+        "rarity": ""
+    },
+    "13": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 13,
+        "rarity": ""
+    },
+    "14": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 14,
+        "rarity": ""
+    },
+    "15": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 15,
+        "rarity": ""
+    },
+    "16": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 16,
+        "rarity": ""
+    },
+    "17": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 17,
+        "rarity": ""
+    },
+    "18": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 18,
+        "rarity": ""
+    },
+    "19": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 19,
+        "rarity": ""
+    },
+    "2": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 2,
+        "rarity": ""
+    },
+    "20": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 20,
+        "rarity": ""
+    },
+    "21": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 21,
+        "rarity": ""
+    },
+    "22": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 22,
+        "rarity": ""
+    },
+    "23": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 23,
+        "rarity": ""
+    },
+    "24": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 24,
+        "rarity": ""
+    },
+    "25": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 25,
+        "rarity": ""
+    },
+    "26": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 26,
+        "rarity": ""
+    },
+    "27": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 27,
+        "rarity": ""
+    },
+    "28": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 28,
+        "rarity": ""
+    },
+    "29": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 29,
+        "rarity": ""
+    },
+    "3": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 3,
+        "rarity": ""
+    },
+    "30": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 30,
+        "rarity": ""
+    },
+    "31": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 31,
+        "rarity": ""
+    },
+    "32": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 32,
+        "rarity": ""
+    },
+    "33": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 33,
+        "rarity": ""
+    },
+    "34": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 34,
+        "rarity": ""
+    },
+    "35": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 35,
+        "rarity": ""
+    },
+    "36": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 36,
+        "rarity": ""
+    },
+    "37": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 37,
+        "rarity": ""
+    },
+    "38": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 38,
+        "rarity": ""
+    },
+    "39": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 39,
+        "rarity": ""
+    },
+    "4": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 4,
+        "rarity": ""
+    },
+    "40": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 40,
+        "rarity": ""
+    },
+    "41": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 41,
+        "rarity": ""
+    },
+    "42": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 42,
+        "rarity": ""
+    },
+    "43": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 43,
+        "rarity": ""
+    },
+    "44": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 44,
+        "rarity": ""
+    },
+    "45": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 45,
+        "rarity": ""
+    },
+    "46": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 46,
+        "rarity": ""
+    },
+    "47": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 47,
+        "rarity": ""
+    },
+    "48": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 48,
+        "rarity": ""
+    },
+    "49": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 49,
+        "rarity": ""
+    },
+    "5": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 5,
+        "rarity": ""
+    },
+    "50": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 50,
+        "rarity": ""
+    },
+    "51": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 51,
+        "rarity": ""
+    },
+    "52": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 52,
+        "rarity": ""
+    },
+    "53": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 53,
+        "rarity": ""
+    },
+    "54": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 54,
+        "rarity": ""
+    },
+    "55": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 55,
+        "rarity": ""
+    },
+    "56": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 56,
+        "rarity": ""
+    },
+    "57": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 57,
+        "rarity": ""
+    },
+    "58": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 58,
+        "rarity": ""
+    },
+    "59": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 59,
+        "rarity": ""
+    },
+    "6": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 6,
+        "rarity": ""
+    },
+    "60": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 60,
+        "rarity": ""
+    },
+    "61": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 61,
+        "rarity": ""
+    },
+    "62": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 62,
+        "rarity": ""
+    },
+    "63": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 63,
+        "rarity": ""
+    },
+    "64": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 64,
+        "rarity": ""
+    },
+    "65": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 65,
+        "rarity": ""
+    },
+    "66": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 66,
+        "rarity": ""
+    },
+    "67": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 67,
+        "rarity": ""
+    },
+    "68": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 68,
+        "rarity": ""
+    },
+    "69": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 69,
+        "rarity": ""
+    },
+    "7": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 7,
+        "rarity": ""
+    },
+    "70": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 70,
+        "rarity": ""
+    },
+    "71": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 71,
+        "rarity": ""
+    },
+    "72": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Ponyta",
+        "num": 72,
+        "rarity": "common"
+    },
+    "73": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 73,
+        "rarity": ""
+    },
+    "74": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 74,
+        "rarity": ""
+    },
+    "75": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 75,
+        "rarity": ""
+    },
+    "76": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 76,
+        "rarity": ""
+    },
+    "77": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 77,
+        "rarity": ""
+    },
+    "78": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 78,
+        "rarity": ""
+    },
+    "79": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 79,
+        "rarity": ""
+    },
+    "8": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 8,
+        "rarity": ""
+    },
+    "80": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 80,
+        "rarity": ""
+    },
+    "81": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 81,
+        "rarity": ""
+    },
+    "82": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 82,
+        "rarity": ""
+    },
+    "83": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 83,
+        "rarity": ""
+    },
+    "84": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 84,
+        "rarity": ""
+    },
+    "85": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 85,
+        "rarity": ""
+    },
+    "86": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 86,
+        "rarity": ""
+    },
+    "87": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 87,
+        "rarity": ""
+    },
+    "88": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 88,
+        "rarity": ""
+    },
+    "89": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 89,
+        "rarity": ""
+    },
+    "9": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 9,
+        "rarity": ""
+    },
+    "90": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 90,
+        "rarity": ""
+    },
+    "91": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 91,
+        "rarity": ""
+    },
+    "92": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 92,
+        "rarity": ""
+    },
+    "93": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 93,
+        "rarity": ""
+    },
+    "94": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 94,
+        "rarity": ""
+    },
+    "95": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 95,
+        "rarity": ""
+    },
+    "96": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 96,
+        "rarity": ""
+    },
+    "97": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 97,
+        "rarity": ""
+    },
+    "98": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 98,
+        "rarity": ""
+    },
+    "99": {
+        "deckName": "Arceus",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 99,
+        "rarity": ""
+    }
+}

@@ -1,0 +1,498 @@
+{
+    "1": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Aerodactyl",
+        "num": 1,
+        "rarity": "rare"
+    },
+    "10": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Lapras",
+        "num": 10,
+        "rarity": "rare"
+    },
+    "11": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Magneton",
+        "num": 11,
+        "rarity": "rare"
+    },
+    "12": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Moltres",
+        "num": 12,
+        "rarity": "rare"
+    },
+    "13": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Muk",
+        "num": 13,
+        "rarity": "rare"
+    },
+    "14": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Raichu",
+        "num": 14,
+        "rarity": "rare"
+    },
+    "15": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Zapdos",
+        "num": 15,
+        "rarity": "rare"
+    },
+    "16": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Aerodactyl",
+        "num": 16,
+        "rarity": "rare"
+    },
+    "17": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Articuno",
+        "num": 17,
+        "rarity": "rare"
+    },
+    "18": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Ditto",
+        "num": 18,
+        "rarity": "rare"
+    },
+    "19": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Dragonite",
+        "num": 19,
+        "rarity": "rare"
+    },
+    "2": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Articuno",
+        "num": 2,
+        "rarity": "rare"
+    },
+    "20": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Gengar",
+        "num": 20,
+        "rarity": "rare"
+    },
+    "21": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Haunter",
+        "num": 21,
+        "rarity": "rare"
+    },
+    "22": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Hitmonlee",
+        "num": 22,
+        "rarity": "rare"
+    },
+    "23": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Hypno",
+        "num": 23,
+        "rarity": "rare"
+    },
+    "24": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Kabutops",
+        "num": 24,
+        "rarity": "rare"
+    },
+    "25": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Lapras",
+        "num": 25,
+        "rarity": "rare"
+    },
+    "26": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Magneton",
+        "num": 26,
+        "rarity": "rare"
+    },
+    "27": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Moltres",
+        "num": 27,
+        "rarity": "rare"
+    },
+    "28": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Muk",
+        "num": 28,
+        "rarity": "rare"
+    },
+    "29": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Raichu",
+        "num": 29,
+        "rarity": "rare"
+    },
+    "3": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Ditto",
+        "num": 3,
+        "rarity": "rare"
+    },
+    "30": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Zapdos",
+        "num": 30,
+        "rarity": "rare"
+    },
+    "31": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Arbok",
+        "num": 31,
+        "rarity": "uncommon"
+    },
+    "32": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Cloyster",
+        "num": 32,
+        "rarity": "uncommon"
+    },
+    "33": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Gastly",
+        "num": 33,
+        "rarity": "uncommon"
+    },
+    "34": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Golbat",
+        "num": 34,
+        "rarity": "uncommon"
+    },
+    "35": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Golduck",
+        "num": 35,
+        "rarity": "uncommon"
+    },
+    "36": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Golem",
+        "num": 36,
+        "rarity": "uncommon"
+    },
+    "37": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Graveler",
+        "num": 37,
+        "rarity": "uncommon"
+    },
+    "38": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Kingler",
+        "num": 38,
+        "rarity": "uncommon"
+    },
+    "39": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Magmar",
+        "num": 39,
+        "rarity": "uncommon"
+    },
+    "4": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Dragonite",
+        "num": 4,
+        "rarity": "rare"
+    },
+    "40": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Omastar",
+        "num": 40,
+        "rarity": "uncommon"
+    },
+    "41": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Sandslash",
+        "num": 41,
+        "rarity": "uncommon"
+    },
+    "42": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Seadra",
+        "num": 42,
+        "rarity": "uncommon"
+    },
+    "43": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Slowbro",
+        "num": 43,
+        "rarity": "uncommon"
+    },
+    "44": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Tentacruel",
+        "num": 44,
+        "rarity": "uncommon"
+    },
+    "45": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Weezing",
+        "num": 45,
+        "rarity": "uncommon"
+    },
+    "46": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Ekans",
+        "num": 46,
+        "rarity": "common"
+    },
+    "47": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Geodude",
+        "num": 47,
+        "rarity": "common"
+    },
+    "48": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 48,
+        "rarity": ""
+    },
+    "49": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 49,
+        "rarity": ""
+    },
+    "5": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Gengar",
+        "num": 5,
+        "rarity": "rare"
+    },
+    "50": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 50,
+        "rarity": ""
+    },
+    "51": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 51,
+        "rarity": ""
+    },
+    "52": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 52,
+        "rarity": ""
+    },
+    "53": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 53,
+        "rarity": ""
+    },
+    "54": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 54,
+        "rarity": ""
+    },
+    "55": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 55,
+        "rarity": ""
+    },
+    "56": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 56,
+        "rarity": ""
+    },
+    "57": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 57,
+        "rarity": ""
+    },
+    "58": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 58,
+        "rarity": ""
+    },
+    "59": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 59,
+        "rarity": ""
+    },
+    "6": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Haunter",
+        "num": 6,
+        "rarity": "rare"
+    },
+    "60": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 60,
+        "rarity": ""
+    },
+    "61": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 61,
+        "rarity": ""
+    },
+    "62": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 62,
+        "rarity": ""
+    },
+    "7": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Hitmonlee",
+        "num": 7,
+        "rarity": "rare"
+    },
+    "8": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Hypno",
+        "num": 8,
+        "rarity": "rare"
+    },
+    "9": {
+        "deckName": "Fossil",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Kabutops",
+        "num": 9,
+        "rarity": "rare"
+    }
+}

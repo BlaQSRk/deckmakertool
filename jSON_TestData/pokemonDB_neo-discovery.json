@@ -1,0 +1,602 @@
+{
+    "1": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Espeon",
+        "num": 1,
+        "rarity": "rare"
+    },
+    "10": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 10,
+        "rarity": ""
+    },
+    "11": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 11,
+        "rarity": ""
+    },
+    "12": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 12,
+        "rarity": ""
+    },
+    "13": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 13,
+        "rarity": ""
+    },
+    "14": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 14,
+        "rarity": ""
+    },
+    "15": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 15,
+        "rarity": ""
+    },
+    "16": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 16,
+        "rarity": ""
+    },
+    "17": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 17,
+        "rarity": ""
+    },
+    "18": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 18,
+        "rarity": ""
+    },
+    "19": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 19,
+        "rarity": ""
+    },
+    "2": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Forretress",
+        "num": 2,
+        "rarity": "rare"
+    },
+    "20": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 20,
+        "rarity": ""
+    },
+    "21": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 21,
+        "rarity": ""
+    },
+    "22": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 22,
+        "rarity": ""
+    },
+    "23": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 23,
+        "rarity": ""
+    },
+    "24": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 24,
+        "rarity": ""
+    },
+    "25": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 25,
+        "rarity": ""
+    },
+    "26": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 26,
+        "rarity": ""
+    },
+    "27": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 27,
+        "rarity": ""
+    },
+    "28": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 28,
+        "rarity": ""
+    },
+    "29": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 29,
+        "rarity": ""
+    },
+    "3": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Hitmontop",
+        "num": 3,
+        "rarity": "rare"
+    },
+    "30": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 30,
+        "rarity": ""
+    },
+    "31": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 31,
+        "rarity": ""
+    },
+    "32": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 32,
+        "rarity": ""
+    },
+    "33": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 33,
+        "rarity": ""
+    },
+    "34": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 34,
+        "rarity": ""
+    },
+    "35": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 35,
+        "rarity": ""
+    },
+    "36": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 36,
+        "rarity": ""
+    },
+    "37": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 37,
+        "rarity": ""
+    },
+    "38": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 38,
+        "rarity": ""
+    },
+    "39": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 39,
+        "rarity": ""
+    },
+    "4": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Houndoom",
+        "num": 4,
+        "rarity": "rare"
+    },
+    "40": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Igglybuff",
+        "num": 40,
+        "rarity": "uncommon"
+    },
+    "41": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 41,
+        "rarity": ""
+    },
+    "42": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 42,
+        "rarity": ""
+    },
+    "43": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 43,
+        "rarity": ""
+    },
+    "44": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 44,
+        "rarity": ""
+    },
+    "45": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 45,
+        "rarity": ""
+    },
+    "46": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 46,
+        "rarity": ""
+    },
+    "47": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 47,
+        "rarity": ""
+    },
+    "48": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 48,
+        "rarity": ""
+    },
+    "49": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 49,
+        "rarity": ""
+    },
+    "5": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 5,
+        "rarity": ""
+    },
+    "50": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 50,
+        "rarity": ""
+    },
+    "51": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 51,
+        "rarity": ""
+    },
+    "52": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 52,
+        "rarity": ""
+    },
+    "53": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 53,
+        "rarity": ""
+    },
+    "54": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 54,
+        "rarity": ""
+    },
+    "55": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 55,
+        "rarity": ""
+    },
+    "56": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 56,
+        "rarity": ""
+    },
+    "57": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 57,
+        "rarity": ""
+    },
+    "58": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 58,
+        "rarity": ""
+    },
+    "59": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 59,
+        "rarity": ""
+    },
+    "6": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 6,
+        "rarity": ""
+    },
+    "60": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 60,
+        "rarity": ""
+    },
+    "61": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 61,
+        "rarity": ""
+    },
+    "62": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 62,
+        "rarity": ""
+    },
+    "63": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 63,
+        "rarity": ""
+    },
+    "64": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 64,
+        "rarity": ""
+    },
+    "65": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 65,
+        "rarity": ""
+    },
+    "66": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 66,
+        "rarity": ""
+    },
+    "67": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 67,
+        "rarity": ""
+    },
+    "68": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 68,
+        "rarity": ""
+    },
+    "69": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 69,
+        "rarity": ""
+    },
+    "7": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 7,
+        "rarity": ""
+    },
+    "70": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 70,
+        "rarity": ""
+    },
+    "71": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 71,
+        "rarity": ""
+    },
+    "72": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 72,
+        "rarity": ""
+    },
+    "73": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 73,
+        "rarity": ""
+    },
+    "74": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 74,
+        "rarity": ""
+    },
+    "75": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 75,
+        "rarity": ""
+    },
+    "8": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 8,
+        "rarity": ""
+    },
+    "9": {
+        "deckName": "Neo Discovery",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 9,
+        "rarity": ""
+    }
+}

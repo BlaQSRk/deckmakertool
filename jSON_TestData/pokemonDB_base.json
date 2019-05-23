@@ -1,0 +1,818 @@
+{
+    "1": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Alakazam",
+        "num": 1,
+        "rarity": "rare"
+    },
+    "10": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Mewtwo",
+        "num": 10,
+        "rarity": "rare"
+    },
+    "100": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 100,
+        "rarity": ""
+    },
+    "101": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 101,
+        "rarity": ""
+    },
+    "102": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 102,
+        "rarity": ""
+    },
+    "11": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Nidoking",
+        "num": 11,
+        "rarity": "rare"
+    },
+    "12": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Ninetales",
+        "num": 12,
+        "rarity": "rare"
+    },
+    "13": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Poliwrath",
+        "num": 13,
+        "rarity": "rare"
+    },
+    "14": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Raichu",
+        "num": 14,
+        "rarity": "rare"
+    },
+    "15": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Venusaur",
+        "num": 15,
+        "rarity": "rare"
+    },
+    "16": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Zapdos",
+        "num": 16,
+        "rarity": "rare"
+    },
+    "17": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Beedrill",
+        "num": 17,
+        "rarity": "rare"
+    },
+    "18": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Dragonair",
+        "num": 18,
+        "rarity": "rare"
+    },
+    "19": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Dugtrio",
+        "num": 19,
+        "rarity": "rare"
+    },
+    "2": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Blastoise",
+        "num": 2,
+        "rarity": "rare"
+    },
+    "20": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Electabuzz",
+        "num": 20,
+        "rarity": "rare"
+    },
+    "21": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Electrode",
+        "num": 21,
+        "rarity": "rare"
+    },
+    "22": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 22,
+        "rarity": ""
+    },
+    "23": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Arcanine",
+        "num": 23,
+        "rarity": "uncommon"
+    },
+    "24": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Charmeleon",
+        "num": 24,
+        "rarity": "uncommon"
+    },
+    "25": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Dewgong",
+        "num": 25,
+        "rarity": "uncommon"
+    },
+    "26": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Dratini",
+        "num": 26,
+        "rarity": "uncommon"
+    },
+    "27": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Farfetch'D",
+        "num": 27,
+        "rarity": "uncommon"
+    },
+    "28": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Growlithe",
+        "num": 28,
+        "rarity": "uncommon"
+    },
+    "29": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 29,
+        "rarity": ""
+    },
+    "3": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Chansey",
+        "num": 3,
+        "rarity": "rare"
+    },
+    "30": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 30,
+        "rarity": ""
+    },
+    "31": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 31,
+        "rarity": ""
+    },
+    "32": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 32,
+        "rarity": ""
+    },
+    "33": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 33,
+        "rarity": ""
+    },
+    "34": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 34,
+        "rarity": ""
+    },
+    "35": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 35,
+        "rarity": ""
+    },
+    "36": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 36,
+        "rarity": ""
+    },
+    "37": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 37,
+        "rarity": ""
+    },
+    "38": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 38,
+        "rarity": ""
+    },
+    "39": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 39,
+        "rarity": ""
+    },
+    "4": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Charizard",
+        "num": 4,
+        "rarity": "rare"
+    },
+    "40": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Raticate",
+        "num": 40,
+        "rarity": "uncommon"
+    },
+    "41": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 41,
+        "rarity": ""
+    },
+    "42": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 42,
+        "rarity": ""
+    },
+    "43": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 43,
+        "rarity": ""
+    },
+    "44": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 44,
+        "rarity": ""
+    },
+    "45": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 45,
+        "rarity": ""
+    },
+    "46": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 46,
+        "rarity": ""
+    },
+    "47": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 47,
+        "rarity": ""
+    },
+    "48": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 48,
+        "rarity": ""
+    },
+    "49": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 49,
+        "rarity": ""
+    },
+    "5": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Clefairy",
+        "num": 5,
+        "rarity": "rare"
+    },
+    "50": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 50,
+        "rarity": ""
+    },
+    "51": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 51,
+        "rarity": ""
+    },
+    "52": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Machop",
+        "num": 52,
+        "rarity": "common"
+    },
+    "53": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 53,
+        "rarity": ""
+    },
+    "54": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 54,
+        "rarity": ""
+    },
+    "55": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 55,
+        "rarity": ""
+    },
+    "56": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 56,
+        "rarity": ""
+    },
+    "57": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 57,
+        "rarity": ""
+    },
+    "58": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 58,
+        "rarity": ""
+    },
+    "59": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 59,
+        "rarity": ""
+    },
+    "6": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Gyarados",
+        "num": 6,
+        "rarity": "rare"
+    },
+    "60": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 60,
+        "rarity": ""
+    },
+    "61": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 61,
+        "rarity": ""
+    },
+    "62": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 62,
+        "rarity": ""
+    },
+    "63": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 63,
+        "rarity": ""
+    },
+    "64": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 64,
+        "rarity": ""
+    },
+    "65": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 65,
+        "rarity": ""
+    },
+    "66": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 66,
+        "rarity": ""
+    },
+    "67": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 67,
+        "rarity": ""
+    },
+    "68": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 68,
+        "rarity": ""
+    },
+    "69": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 69,
+        "rarity": ""
+    },
+    "7": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Hitmonchan",
+        "num": 7,
+        "rarity": "rare"
+    },
+    "70": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 70,
+        "rarity": ""
+    },
+    "71": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 71,
+        "rarity": ""
+    },
+    "72": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 72,
+        "rarity": ""
+    },
+    "73": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 73,
+        "rarity": ""
+    },
+    "74": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 74,
+        "rarity": ""
+    },
+    "75": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 75,
+        "rarity": ""
+    },
+    "76": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 76,
+        "rarity": ""
+    },
+    "77": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 77,
+        "rarity": ""
+    },
+    "78": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 78,
+        "rarity": ""
+    },
+    "79": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 79,
+        "rarity": ""
+    },
+    "8": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Machamp",
+        "num": 8,
+        "rarity": "rare"
+    },
+    "80": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 80,
+        "rarity": ""
+    },
+    "81": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 81,
+        "rarity": ""
+    },
+    "82": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 82,
+        "rarity": ""
+    },
+    "83": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 83,
+        "rarity": ""
+    },
+    "84": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 84,
+        "rarity": ""
+    },
+    "85": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 85,
+        "rarity": ""
+    },
+    "86": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 86,
+        "rarity": ""
+    },
+    "87": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 87,
+        "rarity": ""
+    },
+    "88": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 88,
+        "rarity": ""
+    },
+    "89": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 89,
+        "rarity": ""
+    },
+    "9": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Magneton",
+        "num": 9,
+        "rarity": "rare"
+    },
+    "90": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 90,
+        "rarity": ""
+    },
+    "91": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 91,
+        "rarity": ""
+    },
+    "92": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 92,
+        "rarity": ""
+    },
+    "93": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 93,
+        "rarity": ""
+    },
+    "94": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 94,
+        "rarity": ""
+    },
+    "95": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 95,
+        "rarity": ""
+    },
+    "96": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 96,
+        "rarity": ""
+    },
+    "97": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 97,
+        "rarity": ""
+    },
+    "98": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 98,
+        "rarity": ""
+    },
+    "99": {
+        "deckName": "Base",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 99,
+        "rarity": ""
+    }
+}

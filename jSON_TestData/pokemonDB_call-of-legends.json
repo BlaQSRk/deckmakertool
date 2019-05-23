@@ -1,0 +1,762 @@
+{
+    "1": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 1,
+        "rarity": ""
+    },
+    "10": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 10,
+        "rarity": ""
+    },
+    "11": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 11,
+        "rarity": ""
+    },
+    "12": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 12,
+        "rarity": ""
+    },
+    "13": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 13,
+        "rarity": ""
+    },
+    "14": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Lucario",
+        "num": 14,
+        "rarity": "Rare"
+    },
+    "15": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 15,
+        "rarity": ""
+    },
+    "16": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 16,
+        "rarity": ""
+    },
+    "17": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Ninetales",
+        "num": 17,
+        "rarity": "Rare"
+    },
+    "18": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 18,
+        "rarity": ""
+    },
+    "19": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 19,
+        "rarity": ""
+    },
+    "2": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 2,
+        "rarity": ""
+    },
+    "20": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 20,
+        "rarity": ""
+    },
+    "21": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 21,
+        "rarity": ""
+    },
+    "22": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 22,
+        "rarity": ""
+    },
+    "23": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 23,
+        "rarity": ""
+    },
+    "24": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 24,
+        "rarity": ""
+    },
+    "25": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 25,
+        "rarity": ""
+    },
+    "26": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 26,
+        "rarity": ""
+    },
+    "27": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Meganium",
+        "num": 27,
+        "rarity": "Rare"
+    },
+    "28": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 28,
+        "rarity": ""
+    },
+    "29": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Mr. Mime",
+        "num": 29,
+        "rarity": "Rare"
+    },
+    "3": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 3,
+        "rarity": ""
+    },
+    "30": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 30,
+        "rarity": ""
+    },
+    "31": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Skarmory",
+        "num": 31,
+        "rarity": "Rare"
+    },
+    "32": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Slowking",
+        "num": 32,
+        "rarity": "rare"
+    },
+    "33": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Snorlax",
+        "num": 33,
+        "rarity": "rare"
+    },
+    "34": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 34,
+        "rarity": ""
+    },
+    "35": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 35,
+        "rarity": ""
+    },
+    "36": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 36,
+        "rarity": ""
+    },
+    "37": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 37,
+        "rarity": ""
+    },
+    "38": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 38,
+        "rarity": ""
+    },
+    "39": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 39,
+        "rarity": ""
+    },
+    "4": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 4,
+        "rarity": ""
+    },
+    "40": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 40,
+        "rarity": ""
+    },
+    "41": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Croconaw",
+        "num": 41,
+        "rarity": "uncommon"
+    },
+    "42": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Donphan",
+        "num": 42,
+        "rarity": "uncommon"
+    },
+    "43": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Flaaffy",
+        "num": 43,
+        "rarity": "uncommon"
+    },
+    "44": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Flareon",
+        "num": 44,
+        "rarity": "uncommon"
+    },
+    "45": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Jolteon",
+        "num": 45,
+        "rarity": "uncommon"
+    },
+    "46": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Magby",
+        "num": 46,
+        "rarity": "uncommon"
+    },
+    "47": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 47,
+        "rarity": ""
+    },
+    "48": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 48,
+        "rarity": ""
+    },
+    "49": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Quilava",
+        "num": 49,
+        "rarity": "uncommon"
+    },
+    "5": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 5,
+        "rarity": ""
+    },
+    "50": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Riolu",
+        "num": 50,
+        "rarity": "uncommon"
+    },
+    "51": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 51,
+        "rarity": ""
+    },
+    "52": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Vaporeon",
+        "num": 52,
+        "rarity": "uncommon"
+    },
+    "53": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Chikorita",
+        "num": 53,
+        "rarity": "common"
+    },
+    "54": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 54,
+        "rarity": ""
+    },
+    "55": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Cyndaquil",
+        "num": 55,
+        "rarity": "common"
+    },
+    "56": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Eevee",
+        "num": 56,
+        "rarity": "common"
+    },
+    "57": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Hitmonchan",
+        "num": 57,
+        "rarity": "common"
+    },
+    "58": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Hitmonchan",
+        "num": 58,
+        "rarity": "common"
+    },
+    "59": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 59,
+        "rarity": ""
+    },
+    "6": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 6,
+        "rarity": ""
+    },
+    "60": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Koffing",
+        "num": 60,
+        "rarity": "common"
+    },
+    "61": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Magikarp",
+        "num": 61,
+        "rarity": "common"
+    },
+    "62": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 62,
+        "rarity": ""
+    },
+    "63": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Mareep",
+        "num": 63,
+        "rarity": "common"
+    },
+    "64": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Mawile",
+        "num": 64,
+        "rarity": "common"
+    },
+    "65": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Misdreavus",
+        "num": 65,
+        "rarity": "common"
+    },
+    "66": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Phanpy",
+        "num": 66,
+        "rarity": "common"
+    },
+    "67": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Pidgey",
+        "num": 67,
+        "rarity": "common"
+    },
+    "68": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 68,
+        "rarity": ""
+    },
+    "69": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Relicanth",
+        "num": 69,
+        "rarity": "common"
+    },
+    "7": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 7,
+        "rarity": ""
+    },
+    "70": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Slowpoke",
+        "num": 70,
+        "rarity": "common"
+    },
+    "71": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 71,
+        "rarity": ""
+    },
+    "72": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Tangela",
+        "num": 72,
+        "rarity": "common"
+    },
+    "73": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Teddiursa",
+        "num": 73,
+        "rarity": "common"
+    },
+    "74": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Totodile",
+        "num": 74,
+        "rarity": "common"
+    },
+    "75": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Vulpix",
+        "num": 75,
+        "rarity": "common"
+    },
+    "76": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Cheerleader'S Cheer",
+        "num": 76,
+        "rarity": "uncommon"
+    },
+    "77": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 77,
+        "rarity": ""
+    },
+    "78": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Dual Ball",
+        "num": 78,
+        "rarity": "uncommon"
+    },
+    "79": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Interviewer'S Questions",
+        "num": 79,
+        "rarity": "uncommon"
+    },
+    "8": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 8,
+        "rarity": ""
+    },
+    "80": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Lost Remover",
+        "num": 80,
+        "rarity": "uncommon"
+    },
+    "81": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Lost World",
+        "num": 81,
+        "rarity": "uncommon"
+    },
+    "82": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 82,
+        "rarity": ""
+    },
+    "83": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 83,
+        "rarity": ""
+    },
+    "84": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Research Record",
+        "num": 84,
+        "rarity": "uncommon"
+    },
+    "85": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Sage'S Training",
+        "num": 85,
+        "rarity": "uncommon"
+    },
+    "86": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 86,
+        "rarity": ""
+    },
+    "87": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Metal Energy",
+        "num": 87,
+        "rarity": "uncommon"
+    },
+    "88": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 88,
+        "rarity": ""
+    },
+    "89": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 89,
+        "rarity": ""
+    },
+    "9": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 9,
+        "rarity": ""
+    },
+    "90": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "Water Energy",
+        "num": 90,
+        "rarity": "common"
+    },
+    "91": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 91,
+        "rarity": ""
+    },
+    "92": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 92,
+        "rarity": ""
+    },
+    "93": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 93,
+        "rarity": ""
+    },
+    "94": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 94,
+        "rarity": ""
+    },
+    "95": {
+        "deckName": "Call of Legends",
+        "maxPrice": 1.0,
+        "minPrice": 1.0,
+        "name": "",
+        "num": 95,
+        "rarity": ""
+    }
+}

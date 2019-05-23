@@ -1,0 +1,72 @@
+{
+    "Arceus": {
+        "deckFileName": "arceus",
+        "deckName": "Arceus",
+        "deckSize": 99
+    },
+    "Base": {
+        "deckFileName": "base",
+        "deckName": "Base",
+        "deckSize": 102
+    },
+    "Black and White": {
+        "deckFileName": "black_and_white",
+        "deckName": "Black and White",
+        "deckSize": 114
+    },
+    "Call of Legends": {
+        "deckFileName": "call-of-legends",
+        "deckName": "Call of Legends",
+        "deckSize": 95
+    },
+    "Emerging Powers": {
+        "deckFileName": "emerging_powers",
+        "deckName": "Emerging Powers",
+        "deckSize": 98
+    },
+    "Fossil": {
+        "deckFileName": "fossil",
+        "deckName": "Fossil",
+        "deckSize": 62
+    },
+    "Jungle": {
+        "deckFileName": "jungle",
+        "deckName": "Jungle",
+        "deckSize": 64
+    },
+    "Neo Discovery": {
+        "deckFileName": "neo-discovery",
+        "deckName": "Neo Discovery",
+        "deckSize": 75
+    },
+    "Noble Victories": {
+        "deckFileName": "noble-victories",
+        "deckName": "Noble Victories",
+        "deckSize": 101
+    },
+    "Rising Rivals": {
+        "deckFileName": "rising_rivals",
+        "deckName": "Rising Rivals",
+        "deckSize": 111
+    },
+    "Rocket": {
+        "deckFileName": "rocket",
+        "deckName": "Rocket",
+        "deckSize": 83
+    },
+    "Supreme Victors": {
+        "deckFileName": "supreme-victors",
+        "deckName": "Supreme Victors",
+        "deckSize": 147
+    },
+    "Triumphant": {
+        "deckFileName": "triumphant",
+        "deckName": "Triumphant",
+        "deckSize": 102
+    },
+    "Unleashed": {
+        "deckFileName": "unleashed",
+        "deckName": "Unleashed",
+        "deckSize": 95
+    }
+}
