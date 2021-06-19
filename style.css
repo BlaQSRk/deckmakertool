@@ -1,0 +1,63 @@
+body {
+	background-color: lightblue;	
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+}
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%
+}
+
+a {
+	color: black;
+}
+
+img .pkmncard {
+	max-width: 100%;
+	max-height: 100%;
+	background: url('loading.png') no-repeat;
+}
+
+ul {
+	list-style: none;	
+}
+
+.icon {
+	max-height: 30px;
+	max-width: 30px;	
+}
+
+#pkmncardlist {
+	margin: 0; 
+	padding: 0;
+	list-style: none;
+}
+
+#pkmncardlist li {
+	float: left;
+	width: 21%; 
+	margin: 2%;
+	background-color: #f5f5f5;
+	color: #bdc3c7;
+	max-height: 10%;
+}
+
+th {
+	font-size: 5em;	
+}
+
+
+ul li h3 {
+	padding: 0;
+	margin: 0;
+}
+
+ul li {
+	display: block;
+}
+
+tr {
+	max-width: 100%;
+}
